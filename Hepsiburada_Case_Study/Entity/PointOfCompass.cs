@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Hepsiburada_Case_Study.Entity.Models
-{
+namespace Hepsiburada_Case_Study.Entity
+{ 
     public enum PointOfCompass
     {
         N,

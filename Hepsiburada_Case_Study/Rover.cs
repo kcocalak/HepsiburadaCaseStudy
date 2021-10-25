@@ -1,12 +1,9 @@
-﻿using Hepsiburada_Case_Study.Entity.Models;
+﻿using Hepsiburada_Case_Study.Entity;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
-namespace Hepsiburada_Case_Study.Entity
+namespace Hepsiburada_Case_Study
 {
     public class Rover
     {

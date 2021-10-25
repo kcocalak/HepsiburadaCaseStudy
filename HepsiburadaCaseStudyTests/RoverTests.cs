@@ -1,5 +1,5 @@
+using Hepsiburada_Case_Study;
 using Hepsiburada_Case_Study.Entity;
-using Hepsiburada_Case_Study.Entity.Models;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 
@@ -12,7 +12,6 @@ namespace HepsiburadaCaseStudyTests
         int plateauYAxis = 5;
         int roverXAxis = 3;
         int roverYAxis = 3;
-        PointOfCompass _pointOfCompass;
 
         [TestMethod]
         public void PlateauConstructor_FullTest()

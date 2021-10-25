@@ -1,5 +1,4 @@
 ﻿using Hepsiburada_Case_Study.Entity;
-using Hepsiburada_Case_Study.Entity.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
